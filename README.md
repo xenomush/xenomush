@@ -3,8 +3,8 @@
 
 ### General information:
 
--Student in Šiauliai State college
--Studying Computer Science (2020-2024)
+Student in Šiauliai State college
+Studying Computer Science (2020-2024)
 
 ### Skills:
 
