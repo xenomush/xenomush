@@ -8,7 +8,7 @@ Studying Computer Science (2020-2024)
 
 ### Skills:
 
--Photoshop enthusiast
--Inventive programmer
+- Photoshop enthusiast
+- Inventive programmer
 
 ###
