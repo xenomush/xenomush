@@ -10,5 +10,8 @@
 
 - Photoshop enthusiast
 - Inventive programmer
+  - Lua
+  - HTML/CSS/JS
+  - C++
 
 ###
