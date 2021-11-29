@@ -6,7 +6,7 @@
 -Student in Šiauliai State college
 -Studying Computer Science (2020-2024)
 
-###Skills:
+### Skills:
 
 -Photoshop enthusiast
 -Inventive programmer
