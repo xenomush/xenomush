@@ -9,7 +9,7 @@
 ### Skills:
 
 - Photoshop enthusiast
-- Inventive programmer
+- Inventive amateur programmer
   - Lua
   - HTML/CSS/JS
   - C++
