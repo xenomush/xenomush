@@ -13,5 +13,6 @@
   - Lua
   - HTML/CSS/JS
   - C++
-
+  - JavaScript
+  - SQL
 ###
